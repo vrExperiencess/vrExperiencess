@@ -30,7 +30,7 @@
 - 📁 [Repositorio-video](https://www.youtube.com/watch?v=JfS6s6mvpBo)
 - 🎨 Proyecto desarrollado con Unity y Arduino. Minijuegos cuyo mando es una control de consola antigua a gran escala, en el cual las personas subían sobre el controlador y lo utilizaban para ganar premios.
 
-##Para conocer más productos puedes revisar mi portafolio personal [https://allsensexperience.com/portafolio.html]. 
+##Para conocer más productos puedes revisar mi portafolio personal [LinkedIn](https://allsensexperience.com/portafolio.html). 
 
 ## Mis Tecnologías Favoritas
 
