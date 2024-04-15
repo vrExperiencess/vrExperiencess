@@ -19,15 +19,15 @@
 - 🎮 Somos un Centro de Juegos de Realidad Virtual.
 
 ### [Proyecto 1: Graffity Painting]
-- 📁 [Repositorio](https://www.youtube.com/watch?v=ExnMEHLB4-s)
+- 📁 [Repositorio-Video](https://www.youtube.com/watch?v=ExnMEHLB4-s)
 - ✨ Aplicación desarrollada en Unity, utilizando sensores infrarojos para pintar un Graffity proyectado en las paredes..
 
 ### [Proyecto 2: Dispensador Multimedia de Café]
-- 📁 [Repositorio](https://github.com/juan/proyecto-2](https://www.youtube.com/watch?v=-S9CboDLW5Y&t=1s))
+- 📁 [Repositorio-Video](https://github.com/juan/proyecto-2](https://www.youtube.com/watch?v=-S9CboDLW5Y&t=1s))
 - 🎨 Proyecto desarrollado con Unity y Arduino. Aplicación con pantalla táctil que permite dispensar café interactuando directamente con la pantalla.
 
 ### [Proyecto 3: Big Arcade VivaEnvigado]
-- 📁 [Repositorio](https://www.youtube.com/watch?v=JfS6s6mvpBo)
+- 📁 [Repositorio-video](https://www.youtube.com/watch?v=JfS6s6mvpBo)
 - 🎨 Proyecto desarrollado con Unity y Arduino. Minijuegos cuyo mando es una control de consola antigua a gran escala, en el cual las personas subían sobre el controlador y lo utilizaban para ganar premios.
 
 ##Para conocer más productos puedes revisar mi portafolio personal [https://allsensexperience.com/portafolio.html]. 
