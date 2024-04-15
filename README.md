@@ -12,10 +12,10 @@
 ## Mis Proyectos Destacados
 
 ### VR Experiences Studio
-- 🌐 [Sitio web]((https://allsensexperience.com))
+- 🌐 [Sitio web](https://allsensexperience.com)
 - 🎮 Somos un estudio de desarrollo de experiencias de realidad virtual, especializado en juegos, aplicaciones interactivas y simulaciones inmersivas.
 ### Oasis Games Arena
-- 🌐 [Sitio web]((https://www.instagram.com/oasisgamesarena?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
+- 🌐 [Sitio web](https://www.instagram.com/oasisgamesarena?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 - 🎮 Somos un Centro de Juegos de Realidad Virtual.
 
 ### [Proyecto 1: Graffity Painting]
@@ -23,7 +23,7 @@
 - ✨ Aplicación desarrollada en Unity, utilizando sensores infrarojos para pintar un Graffity proyectado en las paredes..
 
 ### [Proyecto 2: Dispensador Multimedia de Café]
-- 📁 [Repositorio-Video](https://github.com/juan/proyecto-2](https://www.youtube.com/watch?v=-S9CboDLW5Y&t=1s))
+- 📁 [Repositorio-Video](https://www.youtube.com/watch?v=-S9CboDLW5Y&t=1s)
 - 🎨 Proyecto desarrollado con Unity y Arduino. Aplicación con pantalla táctil que permite dispensar café interactuando directamente con la pantalla.
 
 ### [Proyecto 3: Big Arcade VivaEnvigado]
