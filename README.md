@@ -6,6 +6,7 @@
 
 - 💼 Actualmente soy fundador y director creativo en VR Experiences Studio.
 - 💼 Tambien soy Co-fundador y CTO de Oasis Games Arena.
+- 🎓 Soy Magister en Computación Gráfica, Realidad Virtual y Simulación.
 - 🎓 Me gradué en Ingeniería en Diseño de Entretenimiento Digital con enfasis en el Diseño de Experiencias Interactivas.
 - 🚀 Me encanta explorar nuevas tecnologías y crear experiencias innovadoras que cautiven a las personas.
 
